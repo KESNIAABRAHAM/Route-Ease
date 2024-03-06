@@ -1,0 +1,26 @@
+.container {
+    background-color:white;
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 20%;
+    height: 400px;
+    box-shadow:8px 6px 10px;
+}
+
+.inputfields{
+    width: 70%;
+    height: 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+.button{
+    width: 40%;
+    height: 50px;
+    border-radius:10px;
+    font-size: 19px;
+    background-color:#6610f2;
+    cursor: pointer;
+}
+.account{
+    font-size: 19px;
+}
